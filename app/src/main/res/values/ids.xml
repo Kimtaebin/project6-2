@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linearLayout1" type="id" />
+    <item name="edtUrl" type="id" />
+    <item name="btnGo" type="id" />
+    <item name="btnBack" type="id" />
+    <item name="webView1" type="id" />
+</resources>
